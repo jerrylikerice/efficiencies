@@ -2,8 +2,21 @@
 1. vertical differentiatio relax price competition
 
 2. cost structure
+Does it really matter whether we suppose fixed constant cost or zero cost? I think Sutton they assume constant cost and the cost is zero.
+
+quadratic cost function by Moothy, 
+zero cost and upper bound of quality in Shaked and Sutton
+
 
 3. simultaneous or sequential strategy
 
+Sequential versus simultaneous choice with endogenous quality 
+
+Quality choices will be made sequentially in an industry where new products are pioneered by a single firm, such as the pharmaceutical industry. The assumption that quality choices are made simultaneously is most appropriate if the new generation of products is developed by multiple firms in the industry, such as the automobile industry. 
+
+ institutional factors and government regulations that mandate informational disclosure may also determine whether the competition is one of imperfect information (i.e. a simultaneous move game) or one of perfect information (i.e. a sequential move game). For example, the Food and Drug Administration (FDA) licensing policy may provide the opportunity for credible, verifiable information disclosure (Grabowski and Vernon, 1983). 
+
+
 4. different sensitivity to privacy
 
+lead to firms relax the competition on privacy? seems to me the profit would be higher since low type customers have less sensitivity giving firms more intention to acquire value from low type customers.
