@@ -6,6 +6,15 @@ Does it really matter whether we suppose fixed constant cost or zero cost? I thi
 
 quadratic cost function by Moothy, 
 zero cost and upper bound of quality in Shaked and Sutton
+----whether quality has an upper limit
+
+
+cost may influence the number of firms can survive in the market, in oligopoly competition
+
+here we should only consider how zero marginal cost would influence?
+zero marginal means market will be covered since marginal revenue is alwasys bigger than marginal cost.
+but in those literature, they don't have other cost while here we have privacy cost
+
 
 
 3. simultaneous or sequential strategy
@@ -20,3 +29,4 @@ Quality choices will be made sequentially in an industry where new products are 
 4. different sensitivity to privacy
 
 lead to firms relax the competition on privacy? seems to me the profit would be higher since low type customers have less sensitivity giving firms more intention to acquire value from low type customers.
+
